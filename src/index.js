@@ -19,7 +19,7 @@ $(document).ready(function() {
 
     $('._4ldz._1t_r').remove(); // remove avatars
 
-    $('._3oh').html('<p>hahahahahahha</p>');
+    $('._ih3').html('<h5>New name</h5>'); // change senders' names
 
   }, 1000);
   

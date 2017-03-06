@@ -10674,7 +10674,7 @@ function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { de
 
     (0, _jquery2.default)('._4ldz._1t_r').remove(); // remove avatars
 
-    (0, _jquery2.default)('._3oh').html('<p>hahahahahahha</p>');
+    (0, _jquery2.default)('._ih3').html('<h5>New name</h5>'); // change senders' names
   }, 1000);
 });
 
